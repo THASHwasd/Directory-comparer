@@ -16,20 +16,6 @@ A simple yet powerful Python script that compares the contents of two directorie
 - Python 3.6 or higher
 - No external dependencies (uses only standard library)
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/directory-comparison-tool.git
-   cd directory-comparison-tool
-   ```
-
-2. Make the script executable (Unix/Linux/macOS):
-   ```bash
-   chmod +x dir_compare.py
-   ```
-
-## Usage
 
 ### Interactive Mode
 
