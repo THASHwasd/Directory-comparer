@@ -36,7 +36,7 @@ A simple yet powerful Python script that compares the contents of two directorie
 Run the script directly for interactive input:
 
 ```bash
-python dir_compare.py
+python dir_comparer By Thash.py
 ```
 
 The script will prompt you for:
@@ -130,7 +130,6 @@ This tool was originally created as a personal utility and has been enhanced wit
 - Enhanced error handling and edge case management
 - Improved code documentation and comments
 - Professional structuring and best practices implementation
-- Comprehensive README documentation
 
 ## Contributing
 
@@ -165,14 +164,6 @@ Potential features for future versions:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/directory-comparison-tool/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about the error and your environment
 
 ## Changelog
 
